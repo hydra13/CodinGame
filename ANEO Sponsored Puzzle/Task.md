@@ -27,11 +27,12 @@ Line 1: The integer speed (km / h) as high as possible that cross all the green 
 
 Constraints
 -----------
+```
 1 ≤ speed ≤ 200
 1 ≤ lightCount ≤ 9999
 1 ≤ distance ≤ 99999
 1 ≤ duration ≤ 9999
-
+```
 Example
 -------
 ```
