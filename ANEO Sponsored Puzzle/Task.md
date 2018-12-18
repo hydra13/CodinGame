@@ -34,10 +34,13 @@ Constraints
 
 Example
 -------
+```
 Input
 50
 1
 200 15
-
+```
 Output
+```
 50
+```
